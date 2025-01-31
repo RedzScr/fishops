@@ -13,6 +13,8 @@
 ## 🐟 About Fisch Script
 Fisch Script is a powerful and lightweight scripting language designed for efficiency, simplicity, and flexibility. Whether you're a beginner or an experienced developer, Fisch Script provides an intuitive syntax and robust functionality to streamline your coding experience.
 
+![images](https://github.com/user-attachments/assets/fe2a68a6-7ea3-42dd-a793-d381c603c4c0)
+
 ## 🚀 Features
 - 📜 **Lightweight & Fast** – Optimized for performance with minimal resource usage.
 - 🎯 **Easy-to-Learn Syntax** – Designed for readability and simplicity.
